@@ -12,3 +12,4 @@ example of multi-input models are the [Siamese networks](http://yann.lecun.com/e
 [blog](https://ai.googleblog.com/2016/06/wide-deep-learning-better-together-with.html) on wide and deep networks
 
 
+[lecture](https://www.coursera.org/lecture/convolutional-neural-networks/resnets-HAhz9) on resnets. 

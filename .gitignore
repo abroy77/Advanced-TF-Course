@@ -1,6 +1,10 @@
 # custom gitignore folders
 local_data/
-
+*/data 
+*/saved_model
+*/tensorflow_datasets
+*/logs
+*/log_dir
 
 
 
