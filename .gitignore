@@ -6,7 +6,7 @@ local_data/
 */logs
 */log_dir
 */*.zip
-
+*.h5
 
 
 
