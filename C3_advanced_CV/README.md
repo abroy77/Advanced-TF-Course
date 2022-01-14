@@ -23,3 +23,20 @@ resources:
 
 [DIGITS](https://developer.nvidia.com/digits)
 
+[R-CNN](https://arxiv.org/abs/1311.2524)
+
+[Fast R-CNN](https://arxiv.org/abs/1504.08083)
+
+[Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection)
+
+[API guides on github](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2.md)
+
+[Training Checkpoints](https://www.tensorflow.org/guide/checkpoint)
+
+[Retina-Net](https://arxiv.org/abs/1708.02002)
+
+[Tensorflow model garden](https://github.com/tensorflow/models) collection of pretrained models
+
+
+[Few Shot Object detection tutorial colab](https://colab.research.google.com/github/tensorflow/models/blob/master/research/object_detection/colab_tutorials/eager_few_shot_od_training_tf2_colab.ipynb)
+
