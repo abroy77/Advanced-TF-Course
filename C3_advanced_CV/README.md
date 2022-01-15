@@ -40,3 +40,11 @@ resources:
 
 [Few Shot Object detection tutorial colab](https://colab.research.google.com/github/tensorflow/models/blob/master/research/object_detection/colab_tutorials/eager_few_shot_od_training_tf2_colab.ipynb)
 
+## Semantic Segmentation references
+
+[Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1411.4038)
+
+[Camvid subset](https://github.com/divamgupta)
+
+
+[U-Net Paper](https://arxiv.org/abs/1505.04597)
