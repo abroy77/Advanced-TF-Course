@@ -48,3 +48,11 @@ resources:
 
 
 [U-Net Paper](https://arxiv.org/abs/1505.04597)
+
+
+[Mask R-CNN (He, Gkioxari, Dollár & Girshick, 2017)](https://arxiv.org/abs/1703.06870)
+
+## Visualisation and interpretation
+
+[review of diff methods](https://mrsalehi.medium.com/a-review-of-different-interpretation-methods-in-deep-learning-part-1-saliency-map-cam-grad-cam-3a34476bc24d)
+
