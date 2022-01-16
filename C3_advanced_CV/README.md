@@ -56,3 +56,6 @@ resources:
 
 [review of diff methods](https://mrsalehi.medium.com/a-review-of-different-interpretation-methods-in-deep-learning-part-1-saliency-map-cam-grad-cam-3a34476bc24d)
 
+[GradCAM](https://arxiv.org/pdf/1610.02391.pdf)
+
+[Visualising and Understanding CNNs (ZFNet)](https://arxiv.org/abs/1311.2901)
