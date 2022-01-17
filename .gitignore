@@ -5,7 +5,7 @@ local_data/
 */tensorflow_datasets
 */logs
 */log_dir
-*/*.zip
+*.zip
 *.h5
 
 
