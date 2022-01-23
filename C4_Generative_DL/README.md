@@ -13,3 +13,23 @@
 
 [- Exploring the structure of a real-time, arbitrary neural artistic stylization network (Ghiasi, Lee, Kudlur, Dumoulin & Shlens,
   2017)](https://arxiv.org/pdf/1705.06830.pdf)
+
+
+- Tensorflow tutorial on Convolutional [VAEs](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cvae.ipynb)
+
+- [Kullback-Liebler Divergence] (https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence)
+
+- [Paper](https://arxiv.org/abs/2002.07514) on balancing KL loss and reconstruction loss in VAEs
+
+# GANs
+
+- [Coursera GAN specialisation](https://www.deeplearning.ai/generative-adversarial-networks-specialization/)
+
+- [Paper](https://arxiv.org/abs/1706.02515) on self-normalising neural networks. talks about Selu activation function used in
+  GANs
+
+- Deep Convolutional GANS [paper](https://arxiv.org/pdf/1511.06434.pdf)
+
+- Leaky Re-LU [activation] (https://www.tensorflow.org/api_docs/python/tf/keras/layers/LeakyReLU)
+
+
